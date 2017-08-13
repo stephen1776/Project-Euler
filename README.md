@@ -1,1 +1,4 @@
-# Project-Euler
+# Project Euler
+## Description ##
+This is my collection of Python codes that I wrote to solve problems on [Project Euler](https://projecteuler.net).
+
